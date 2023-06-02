@@ -1,0 +1,31 @@
+html{
+    margin: 0;
+    height: 100%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: repeating-linear-gradient(#9799f7,#7ab6db);
+    font-size: larger;
+}
+
+h1{
+    padding: 10px 10px 10px 10px;
+    border-style: solid;
+    text-shadow: 2px 2px gold;
+    border-inline-color: gold;
+    text-align: center;
+    width: 100px;
+    justify-content: center;
+  
+}
+
+
+#nezuko{
+    border-radius: 8px;
+    margin-top: 10px;
+    width:5in;
+    height:10cm
+}
