@@ -7,7 +7,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    background: repeating-linear-gradient(#c94d4d,#f2a444,#f2afaf);
+    background: repeating-linear-gradient(#12c4b2,#644dc9);
     font-size: larger;
 }
 
