@@ -1,0 +1,26 @@
+html{
+    margin: 0;
+    height: 180%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 1000px;
+  background: repeating-linear-gradient(180deg, red, orange, yellow, green, blue, indigo, violet, red);
+    font-size: larger;
+}
+
+
+h1{
+    font-family: "Baskerville",serif;
+
+}
+
+p{
+    width: 60%;
+    text-align: center;
+   
+}
+
