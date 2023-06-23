@@ -8,7 +8,7 @@ body{
     flex-direction: column;
     align-items: center;
     height: 1000px;
-  background: repeating-linear-gradient(180deg, red, orange, yellow, green, blue, indigo, violet, red);
+    background:repeating-linear-gradient(#c94d4d,#f2a444,#f2afaf,#8a76e3,#c94d4d);
     font-size: larger;
 }
 
